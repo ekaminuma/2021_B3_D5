@@ -13,6 +13,9 @@
       - [ArtBreeder](https://www.artbreeder.com/)
       - [Photoreal Roman Emperor Project. 54 Machine-learning assisted portraits | by Daniel Voshart | Medium](https://voshart.medium.com/photoreal-roman-emperor-project-236be7f06c8f) 2020/7/25
       - [AI 'resurrects' 54 Roman emperors, in stunningly lifelike images | Live Science](https://www.livescience.com/ai-roman-emperor-portraits.html) 2020/9/28
+   - DALL-E Project by OpenAI
+      - [DALL-E Project | OpenAI ](https://openai.com/blog/dall-e/) 
+      - [DALL-E：テキストからの画像生成の日本語翻訳 | Note ](https://note.com/npaka/n/n412754686518)
    - Turing Test
       - [Computer AI passes Turing test in 'world first' | BBC news](https://www.bbc.com/news/technology-27762088)   
        
