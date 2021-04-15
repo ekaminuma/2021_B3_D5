@@ -13,7 +13,9 @@
       - [ArtBreeder](https://www.artbreeder.com/)
       - [Photoreal Roman Emperor Project. 54 Machine-learning assisted portraits | by Daniel Voshart | Medium](https://voshart.medium.com/photoreal-roman-emperor-project-236be7f06c8f) 2020/7/25
       - [AI 'resurrects' 54 Roman emperors, in stunningly lifelike images | Live Science](https://www.livescience.com/ai-roman-emperor-portraits.html) 2020/9/28
-   
+   - Turing Test
+      - [Computer AI passes Turing test in 'world first' | BBC news](https://www.bbc.com/news/technology-27762088)   
+       
 ---
 - 第2回 Linux入門
    - [Google Colaboratory](https://colab.research.google.com/)
