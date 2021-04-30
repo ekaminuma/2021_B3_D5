@@ -39,6 +39,16 @@
 ---
 - 第3回 API・オープンデータ入門
 
+   - [500 Cities](https://nccd.cdc.gov/500_Cities)
+   - [米国政府データポータル](https://data.gov/)
+   - [日本政府データポータル](https://data.go.jp/)
+   - [東京都データポータル](https://catalog.data.metro.tokyo.lg.jp/dataset)
+   - [日本政府統計 e-Stat](http://data.e-stat.go.jp/)
+   - [UCI機械学習レポジトリ](https://archive.ics.uci.edu/ml/index.php)
+   - [Githubプログラムコードレポジトリ](https://github.com/)
+   - [Microsoft Azure AI API](https://azure.microsoft.com/ja-jp/services/cognitive-services/computer-vision/)
+   - [Weatherbonk](http://www.weatherbonk.com/maps/)
+   - [Google Dataset Search](https://datasetsearch.research.google.com/)
    - Google Chart APIを利用したQRコード作成方法
       - https://chart.googleapis.com/chart?cht=qr&chs=300x300&chl=https://www.youtube.com/watch?v=T2qQGqZxkD0
 
