@@ -72,9 +72,26 @@
     -  [Faces recognition example using eigenfaces and SVMs | Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html)
     -  [PCA of Iris Dataset| Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html#sphx-glr-auto-examples-decomposition-plot-pca-vs-lda-py)
     -  [K-Means Clustering of Iris Dataset | Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html#sphx-glr-auto-examples-cluster-plot-cluster-iris-py)
-
+    - [Iris Dataset | UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Iris)
+    - [Wine Quality Dataset | UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+    - [Pandas CheatSheet | Python ](https://qiita.com/s_katagiri/items/4cd7dee37aae7a1e1fc0)
+    - [PythonによるAI・機械学習・深層学習アプリのつくり方TensorFlow2対応| Book](https://www.amazon.co.jp/%E3%81%99%E3%81%90%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B-%E6%A5%AD%E5%8B%99%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%81%A7%E3%81%8D%E3%82%8B-Python%E3%81%AB%E3%82%88%E3%82%8BAI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%BB%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9-TensorFlow2%E5%AF%BE%E5%BF%9C-%E3%82%AF%E3%82%B8%E3%83%A9%E9%A3%9B%E8%A1%8C%E6%9C%BA/dp/4802612796/ref=pd_lpo_14_t_0/356-3999262-8812043?_encoding=UTF8&pd_rd_i=4802612796&pd_rd_r=c94f6ad1-0be5-4001-95e7-f3da4a2a425b&pd_rd_w=mExdS&pd_rd_wg=tBWGj&pf_rd_p=dc0198fa-c371-4787-b1e2-96ed0e4d45e8&pf_rd_r=QS9AAK7KZ5XPR01V2GM0&psc=1&refRID=QS9AAK7KZ5XPR01V2GM0)
+    
 ---
 - 第5回 深層学習の基礎[1] 概要
+    -  [Deep Learning | The MIT Press | Book](https://www.amazon.co.jp/Learning-Adaptive-Computation-Machine-English-ebook/dp/B08FH8Y533/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-3) 2016/11/10
+    -  [ゼロから作るDeep Learning|オライリージャパン](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-1) 2016/9/24
+    -  [DeepLearningモデルの層数の可視化](https://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)
+    -  [CNN | LuCun et al, Nature 521:436, 2015](http://dx.doi.org/10.1038/nature14539)
+    -  [GAN | Goodfellow et al, arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
+    -  [DQN | Mnih et al, Nature 518:529, 2015](https://www.nature.com/articles/nature14236)
+    -  [ILSVRC | ImageNet Large Scale Visual Recognition Challenge](https://www.image-net.org/challenges/LSVRC/)
+    -  [ImageNet database](https://www.image-net.org/)
+    -  [Tensorflow Playground](https://playground.tensorflow.org/)
+    -  [青空文庫トップ](https://www.aozora.gr.jp/)
+    -  [夏目漱石 三四郎 | 青空文庫](https://www.aozora.gr.jp/cards/000148/files/794_14946.html) 
+    -  [Transformerの解説](https://www.acceluniverse.com/blog/developers/2019/08/attention.html)
+    
 ---
 - 第6回 深層学習の基礎[2] 分類
 ---
