@@ -79,12 +79,14 @@
     
 ---
 - 第5回 深層学習の基礎[1] 概要
-    -  [Deep Learning | The MIT Press | Book](https://www.amazon.co.jp/Learning-Adaptive-Computation-Machine-English-ebook/dp/B08FH8Y533/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-3) 2016/11/10
-    -  [ゼロから作るDeep Learning|オライリージャパン](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-1) 2016/9/24
+    -  参考書
+       -  [Deep Learning | The MIT Press ](https://www.amazon.co.jp/Learning-Adaptive-Computation-Machine-English-ebook/dp/B08FH8Y533/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-3) 2016/11/10
+       -  [ゼロから作るDeep Learning|オライリージャパン](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Deep+Learning&qid=1620985996&sr=8-1) 2016/9/24
     -  [DeepLearningモデルの層数の可視化](https://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)
-    -  [CNN | LuCun et al, Nature 521:436, 2015](http://dx.doi.org/10.1038/nature14539)
-    -  [GAN | Goodfellow et al, arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
-    -  [DQN | Mnih et al, Nature 518:529, 2015](https://www.nature.com/articles/nature14236)
+    - 深層学習モデルの論文
+      - [CNN | LuCun et al, Nature 521:436, 2015](http://dx.doi.org/10.1038/nature14539)
+      -  [GAN | Goodfellow et al, arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
+      -  [DQN | Mnih et al, Nature 518:529, 2015](https://www.nature.com/articles/nature14236)
     -  [ILSVRC | ImageNet Large Scale Visual Recognition Challenge](https://www.image-net.org/challenges/LSVRC/)
        -  [ImageNet database](https://www.image-net.org/)
     -  [Tensorflow Playground](https://playground.tensorflow.org/)
