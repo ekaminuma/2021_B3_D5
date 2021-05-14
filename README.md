@@ -2,6 +2,18 @@
 
 #### Eli Kaminuma (Nagoya City University)
 ---
+実習内容
+|  |トピック|事例 |課題投稿 |
+|:--- |:--- |:--- |:--- |
+|1回|AI体験 | ジャンケン画像分類AIの作成 (Teachable Machine) | ポーズ分類AIの作成 (Teachable Machine)  |
+|2回|Linux入門|  顔トラッキングAI,VTuber体験 (FaceMesh, FaceVTuber) | Linuxコマンド関係テスト  |
+|3回|オープンデータ入門|  URLからQRコード作成 (Google Chart API) |タイムラプス衛星画像の探索 (Google Earth Engine)|
+|4回|機械学習基礎|Iris品種分類(SVM, DecisionTree, RadomForest)|ワイン品質分類(SVM, RadomForest)|
+|5回|深層学習1|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
+|6回|深層学習2|||
+|7回|深層学習3|||
+|8回|先端技術|||
+
 ---
 ### References
 
@@ -22,8 +34,7 @@
 ---
 - 第2回 Linux入門
    - 課題投稿関係
-   　　- [Google Colaboratory](https://colab.research.google.com/)
-   　　- [Google Classroom](https://classroom.google.com/)  
+     - [Google Colaboratory](https://colab.research.google.com/)
    - Linux参考情報
        - [Linux | Wikipedia](https://ja.wikipedia.org/wiki/Linux)
        - [リーナストーバルズ | Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%88%E3%83%BC%E3%83%90%E3%83%AB%E3%82%BA)
@@ -53,3 +64,22 @@
       - https://chart.googleapis.com/chart?cht=qr&chs=300x300&chl=https://www.youtube.com/watch?v=T2qQGqZxkD0
 
 ---
+- 第4回 機械学習の基礎
+    - [機械学習 | Wikipedia](https://ja.wikipedia.org/wiki/機械学習)
+    - [Machine Learning | Book |McGraw-Hill Series in Computer Science](http://www.cs.cmu.edu/~tom/mlbook.html)
+    -  [Scikit-Learn |Python Library](https://scikit-learn.org/)
+    -  [ML Algorithm Flowchart | Scikit-Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+    -  [Faces recognition example using eigenfaces and SVMs | Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html)
+    -  [PCA of Iris Dataset| Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html#sphx-glr-auto-examples-decomposition-plot-pca-vs-lda-py)
+    -  [K-Means Clustering of Iris Dataset | Scikit-Learn examples](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html#sphx-glr-auto-examples-cluster-plot-cluster-iris-py)
+
+---
+- 第5回 深層学習の基礎[1] 概要
+---
+- 第6回 深層学習の基礎[2] 分類
+---
+- 第7回 深層学習の基礎[3] 回帰
+---
+- 第8回 DX先端技術の紹介
+-----
+----
