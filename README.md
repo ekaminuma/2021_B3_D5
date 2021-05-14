@@ -91,7 +91,9 @@
     -  [青空文庫トップ](https://www.aozora.gr.jp/)
     -  [夏目漱石 三四郎 | 青空文庫](https://www.aozora.gr.jp/cards/000148/files/794_14946.html) 
     -  [Transformerの解説](https://www.acceluniverse.com/blog/developers/2019/08/attention.html)
-    
+    -  [小説「天気の子」を丸ごと一冊、感情分析してみた|Qiita](https://qiita.com/toshiyuki_tsutsui/items/10f52c30fe1504b83ba1)
+    - [BERTの使い方 - 日本語pre-trained modelsをfine tuningして分類問題を解く|Qiita](https://qiita.com/kenta1984/items/7f3a5d859a15b20657f3)
+    - [BERT日本語モデルを使って、クリスマスプレゼントに欲しいものを推測してみた|CRESCO Engineers' Blog](https://www.cresco.co.jp/blog/entry/11517/)
 ---
 - 第6回 深層学習の基礎[2] 分類
 ---
