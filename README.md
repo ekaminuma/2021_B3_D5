@@ -9,9 +9,9 @@
 |2回|Linux入門|  顔トラッキングAI,VTuber体験 (FaceMesh, FaceVTuber) | Linuxコマンド関係テスト  |
 |3回|オープンデータ入門|  URLからQRコード作成 (Google Chart API) |タイムラプス衛星画像の探索 (Google Earth Engine)|
 |4回|機械学習基礎|Iris品種分類(SVM, DecisionTree, RadomForest)|ワイン品質分類(SVM, RadomForest)|
-|5回|深層学習1|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
-|6回|深層学習2|||
-|7回|深層学習3|||
+|5回|深層学習1:基礎|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
+|6回|深層学習2:分類|||
+|7回|深層学習3:回帰,生成|||
 |8回|先端技術|||
 
 ---
@@ -99,9 +99,35 @@
        -  [BERTの使い方 - 日本語pre-trained modelsをfine tuningして分類問題を解く|Qiita](https://qiita.com/kenta1984/items/7f3a5d859a15b20657f3)
        - [BERT日本語モデルを使って、クリスマスプレゼントに欲しいものを推測してみた|CRESCO Engineers' Blog](https://www.cresco.co.jp/blog/entry/11517/)
 ---
-- 第6回 深層学習の基礎[2] 分類
+- 第6回 深層学習の基礎[2] 分類 (畳込みニューラルネットワーク)
+    - 深層学習ライブラリ
+      - [Tensorflow](https://www.tensorflow.org/) Google
+      - [Keras](https://keras.io/ja/)
+      - [PyTorch](https://pytorch.org/)
+      - [Caffe](https://caffe.berkeleyvision.org/), Chainer, Microsoft [CNTK](https://github.com/microsoft/CNTK), AWS [MXNet](https://aws.amazon.com/jp/mxnet/), [Paddle](https://github.com/PaddlePaddle/Paddle)
+    - [Top Deep Learning Libraries 2018](https://www.kdnuggets.com/2018/04/top-16-open-source-deep-learning-libraries.html)
+    - [Github Topics - Deep Learning](https://github.com/topics/deep-learning)
+    - [データサイエンスと機械学習のサーベイ | Kaggle](https://www.kaggle.com/kaggle-survey-2020)
+    - 参考書
+       - [すぐに使える業務で実践できる PythonによるAI・機械学習・深層学習アプリのつくり方](https://www.socym.co.jp/book/1279) 2020/10/21
+    - 畳込みニューラルネットワーク
+       - [LuCun Y et al, Deep Learning, Nature 521:436, 2015](https://pubmed.ncbi.nlm.nih.gov/26017442/)
+       - [Convolutional Neurel Network | Wikipedia(https://en.wikipedia.org/wiki/Convolutional_neural_network)
+       - [kernelフィルタと画像処理](https://www.clg.niigata-u.ac.jp/~medimg/practice_medical_imaging/imgproc_scion/how_to_scion_image/process.htm)
+       - [PaddingとStride](https://github.com/vdumoulin/conv_arithmetic)
+    - 深層学習用データセット
+       - MNIST
+       - Fashion MNIST
+       - CIFAR10
+       - ImageNet
+    - [ImageNet Pretrained Models]()
+    - [ImageNet 
+    - [学習済モデル](https://keras.io/guides/)
+
+
 ---
-- 第7回 深層学習の基礎[3] 回帰
+- 第7回 深層学習の基礎[3] 回帰 (再帰型ニューラルネットワーク), 生成 (敵対的生成ネットワーク)
+    - 
 ---
 - 第8回 DX先端技術の紹介
 -----
