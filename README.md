@@ -129,7 +129,36 @@
 
 ---
 - 第7回 深層学習の基礎[3] 回帰 (再帰型ニューラルネットワーク), 生成 (敵対的生成ネットワーク)
-    - 
+    - 回帰タスクの機械学習アルゴリズム
+      - 線形回帰分析（Linear Regression）
+      - 重回帰分析  (Multiple Linear Regression)
+      - 自己回帰モデル (Autoregressive Model)
+      - 赤池情報量基準 (Akaike Information Criterion:AIC)
+      - サポートベクター回帰 (Support Vector Regression)
+     - 回帰タスクの深層学習アルゴリズム
+      - Recurrent Neural Network (RNN)
+      - Long Short Term Memory (LSTM)
+      - RNNの活性化関数
+        - tanh (双曲線正接関数)
+        - σ (シグモイド関数)  
+     [LSTMの暗号資産価格予測](https://github.com/asifahmed90/Cryptocurrency_Market_Prediction/blob/master/Cryptocurrency_Analysis.ipynb)
+     - 事例(落書き画像データセット)
+       - [Quick, Draw!](https://quickdraw.withgoogle.com/)
+       - [落書き画像データセット](https://quickdraw.withgoogle.com/data)
+       - [落書き画像分類AI](https://quickdraw.withgoogle.com/)
+       - [SKETCH RNN](https://magenta.tensorflow.org/sketch-rnn-demo)
+       - [SKETCH RNNで続きスケッチの時系列予測](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)
+       - [SKETCH VAEで落書き模倣](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
+         - [Variational Autoencoder徹底解説 | Qiita](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24) 
+      - 生成タスクの深層学習アルゴリズム
+       - Generative Adversarial Network (GAN)
+       - [GAN Lab |Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/) 
+       - [Facebook DeepFake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
+       - pix2pix [arXiv:1611.07004](https://arxiv.org/pdf/1611.07004.pdf)
+       - CycleGAN [arXiv:1703.10593](https://arxiv.org/pdf/1703.10593.pdf)
+       - StyleGAN [arXiv:1812.04948](https://arxiv.org/pdf/1812.04948.pdf)
+
+
 ---
 - 第8回 DX先端技術の紹介
 -----
