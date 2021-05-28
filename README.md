@@ -150,7 +150,7 @@
        - [SKETCH RNNで続きスケッチの時系列予測](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)
        - [SKETCH VAEで落書き模倣](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
          - [Variational Autoencoder徹底解説 | Qiita](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24) 
-      - 生成タスクの深層学習アルゴリズム
+   - 生成タスクの深層学習アルゴリズム
        - Generative Adversarial Network (GAN)
        - [GAN Lab |Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/) 
        - [Facebook DeepFake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
