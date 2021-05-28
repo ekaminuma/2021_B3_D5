@@ -122,7 +122,9 @@
        - ImageNet
     - [ImageNet Pretrained Models](https://keras.io/api/applications/)
     - [VGG学習済モデル](https://newtechnologylifestyle.net/wp-content/uploads/2019/02/CNN.png)
-    - [ImageNet Database解説]((http://starpentagon.net/analytics/imagenet_ilsvrc2012_dataset/)
+    - [ImageNet Database解説](http://starpentagon.net/analytics/imagenet_ilsvrc2012_dataset/)
+    - [Transfer Learning from Pretrained Models]
+    - [Rock/Paper/Scissors Dataset](https://www.tensorflow.org/datasets/catalog/rock_paper_scissors)
 
 ---
 - 第7回 深層学習の基礎[3] 回帰 (再帰型ニューラルネットワーク), 生成 (敵対的生成ネットワーク)
