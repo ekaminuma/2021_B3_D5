@@ -120,10 +120,9 @@
        - Fashion MNIST
        - CIFAR10
        - ImageNet
-    - [ImageNet Pretrained Models]()
-    - [ImageNet 
-    - [学習済モデル](https://keras.io/guides/)
-
+    - [ImageNet Pretrained Models](https://keras.io/api/applications/)
+    - [VGG学習済モデル](https://newtechnologylifestyle.net/wp-content/uploads/2019/02/CNN.png)
+    - [ImageNet Database解説]((http://starpentagon.net/analytics/imagenet_ilsvrc2012_dataset/)
 
 ---
 - 第7回 深層学習の基礎[3] 回帰 (再帰型ニューラルネットワーク), 生成 (敵対的生成ネットワーク)
