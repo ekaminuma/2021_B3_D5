@@ -10,7 +10,7 @@
 |3回|オープンデータ入門|  URLからQRコード作成 (Google Chart API) |タイムラプス衛星画像の探索 (Google Earth Engine)|
 |4回|機械学習基礎|Iris品種分類(SVM, DecisionTree, RadomForest)|ワイン品質分類(SVM, RadomForest)|
 |5回|深層学習1:基礎|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
-|6回|深層学習2:分類|||
+|6回|深層学習2:分類| 1) 畳込み処理とプーリング処理, 2) CNNとMLPの精度比較, 3) CNN結合層の転移学習  | |
 |7回|深層学習3:回帰,生成|||
 |8回|先端技術|||
 
@@ -120,11 +120,12 @@
        - Fashion MNIST
        - CIFAR10
        - ImageNet
-    - [ImageNet Pretrained Models](https://keras.io/api/applications/)
-    - [VGG学習済モデル](https://newtechnologylifestyle.net/wp-content/uploads/2019/02/CNN.png)
-    - [ImageNet Database解説](http://starpentagon.net/analytics/imagenet_ilsvrc2012_dataset/)
-    - [Transfer Learning from Pretrained Models]
-    - [Rock/Paper/Scissors Dataset](https://www.tensorflow.org/datasets/catalog/rock_paper_scissors)
+    - 学習済モデル
+      - [ImageNet Pretrained Models](https://keras.io/api/applications/)
+      - [VGGモデル](https://newtechnologylifestyle.net/wp-content/uploads/2019/02/CNN.png)
+      - [ImageNet Database解説](http://starpentagon.net/analytics/imagenet_ilsvrc2012_dataset/)
+      - [Transfer Learning from Pretrained Models]
+      - 転移学習用データセット [Rock/Paper/Scissors Dataset](https://www.tensorflow.org/datasets/catalog/rock_paper_scissors)
 
 ---
 - 第7回 深層学習の基礎[3] 回帰 (再帰型ニューラルネットワーク), 生成 (敵対的生成ネットワーク)
