@@ -10,8 +10,8 @@
 |3回|オープンデータ入門|  URLからQRコード作成 (Google Chart API) |タイムラプス衛星画像の探索 (Google Earth Engine)|
 |4回|機械学習基礎|Iris品種分類(SVM, DecisionTree, RadomForest)|ワイン品質分類(SVM, RadomForest)|
 |5回|深層学習1:基礎|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
-|6回|深層学習2:分類| 1) 畳込み処理とプーリング処理, 2) CNNとMLPの精度比較, 3) CNN結合層の転移学習  | 転移学習でジャンケン画像分類AI作成 |
-|7回|深層学習3:回帰,生成|LSTMで暗号資産の時系列価格予測(Price Forecast)| Neural Style Transferで画風変換 |
+|6回|深層学習2:分類| 1) 畳込み処理とプーリング処理, 2) CNNとMLPの精度比較, 3) CNN結合層の転移学習  | 転移学習でジャンケン画像分類AI作成(VGG16) |
+|7回|深層学習3:回帰,生成|LSTMで暗号資産の時系列価格予測(Price Forecast)| Neural Style Transferで画風変換(VGG19) |
 |8回|先端技術|||
 
 ---
