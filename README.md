@@ -12,7 +12,7 @@
 |5回|深層学習1:基礎|家庭科試験問題[3大栄養素]で解答推論(Transformer)|青空文庫テキストで感情分析(Transformer)|
 |6回|深層学習2:分類| 1) 畳込み処理とプーリング処理, 2) CNNとMLPの精度比較, 3) CNN結合層の転移学習  | 転移学習でジャンケン画像分類AI作成(VGG16) |
 |7回|深層学習3:回帰,生成|LSTMで暗号資産の時系列価格予測(Price Forecast)| Neural Style Transferで画風変換(VGG19) |
-|8回|先端技術|||
+|8回|AIの法律と倫理,まとめ|YOLO物体検出|役立ちロボットAIの提案|
 
 ---
 ### References
@@ -160,6 +160,27 @@
 
 
 ---
-- 第8回 DX先端技術の紹介
+- 第8回 AIの法律と倫理、まとめ
+  -  2019年1月1日に施行された[改正著作権法](https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/bunkakai/51/pdf/r1406118_08.pdf)
+  -  [Kindleコンテンツの利用規約](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201014950)
+  -  [FaceVTuberのキズナアイモデル利用規約](https://kizunaai.com/download/)
+  -  Frederik Zuiderveen Borgesius教授の[差別、人工知能、そしてアルゴリズム的意思決定](https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73)
+  -  [3人の黒人ティーンエイジャー：Googleは人種差別主義者か](https://www.huffingtonpost.co.uk/entry/three-black-teenagers-google-racism_uk_575811f5e4b014b4f2530bb5?guccounter=2)
+  -  [Microsoftの人工知能が問題発言連発で炎上し活動停止](https://gigazine.net/news/20160325-tay-microsoft-flaming-twitter/)
+  -  [AI倫理（Ethics of artificial intelligence）](https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/030400161/)
+  -  [畳み込みニューラルネットワーク（CNN）のヒートマップ](https://hajimerobot.co.jp/ai/cnn_heatmap/)
+  -  [「まさにブラックボックス」AIによる人事評価　情報開示求め、日本IBM労組が申し立て](https://www.bengo4.com/c_5/n_11023/)
+  -  [AutoML](https://qiita.com/highno_RQ/items/71595fc402e5b3a55665)
+  - [画像認識用CNNモデル](https://keras.io/api/applications/)
+  - [Vision Trasformer(ViT)](https://qiita.com/omiita/items/0049ade809c4817670d7)
+  - [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2)
+  - [YOLO(You Only Look Once!)](https://arxiv.org/abs/1506.02640)
+  - [TinyYOLOのデモ](https://shaqian.github.io/tfjs-yolo-demo/)
+  - [中国警察｢4年間で1万人の逮捕に貢献｣の顔認証システム](https://www.businessinsider.jp/post-188353)
+  - [監視社会か防犯か、人工知能でつながる1.7憶台の監視カメラ｜中国](https://jp.techcrunch.com/2021/05/26/2021-05-25-microsoft-uses-gpt-3-to-let-you-code-in-natural-language/)
+  - [マイクロソフトはGPT-3を使い自然言語でコードを書けるようにする](https://jp.techcrunch.com/2021/05/26/2021-05-25-microsoft-uses-gpt-3-to-let-you-code-in-natural-language/)
+  - [Facebookなど、現実的な3D環境でエージェントを高速訓練できるプラットフォーム「Habitat」と写実的屋内3Dデータセット「Replica」を公開](https://shiropen.com/seamless/habitat-replica)
+
+
 -----
 ----
